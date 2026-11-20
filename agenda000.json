@@ -1,197 +1,222 @@
 [
   {
-    "time": "07:30",
-    "event": "Cricket: 1st Test Day 4: South Africa v Bangladesh",
-    "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
-  },
-  {
-    "time": "10:30",
-    "event": "Tennis: ATP Finals: Day 4 Doubles",
-    "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
-  },
-  {
-    "time": "12:00",
-    "event": "Tennis: ATP Finals: Alcaraz v Medvedev",
-    "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
-  },
-  {
-    "time": "12:00",
-    "event": "Tekstilac Odžaci x Železničar Pančevo",
-    "url": "https://v3.sportsonline.to/channels/hd/hd8.php"
-  },
-  {
-    "time": "13:00",
-    "event": "Tennis: ATP Finals 2026",
-    "url": "https://v3.sportsonline.to/channels/pt/sporttv2.php"
-  },
-  {
-    "time": "15:00",
-    "event": "Dubočica x Radnički Niš",
-    "url": "https://v3.sportsonline.to/channels/hd/hd8.php"
-  },
-  {
-    "time": "15:00",
-    "event": "El Gounah x Al Ittihad",
-    "url": "https://v3.sportsonline.to/channels/hd/hd9.php"
-  },
-  {
-    "time": "17:00",
-    "event": "Tennis: ATP Finals: Day 4 Doubles",
-    "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
-  },
-  {
-    "time": "17:00",
-    "event": "Basketball: Euroleague - Besiktas x Real Madrid",
-    "url": "https://v3.sportsonline.to/channels/pt/sporttv2.php"
-  },
-  {
-    "time": "17:30",
-    "event": "Zemun x Radnički Kragujevac",
-    "url": "https://v3.sportsonline.to/channels/hd/hd8.php"
-  },
-  {
-    "time": "17:45",
-    "event": "Häcken W x Manchester City W",
+    "time": "09:00",
+    "event": "MotoGP: Portugal FP1",
     "url": "https://v3.sportsonline.to/channels/hd/hd2.php"
   },
   {
-    "time": "17:45",
-    "event": "Real Madrid W x Inter Milano W",
-    "url": "https://v3.sportsonline.to/channels/hd/hd5.php"
+    "time": "09:00",
+    "event": "MotoGP: Portugal FP1",
+    "url": "https://v3.sportsonline.to/channels/pt/sporttv4.php"
   },
   {
-    "time": "17:45",
-    "event": "Real Madrid W x Inter Milano W",
-    "url": "https://v3.sportsonline.to/channels/hd/hd11.php"
-  },
-  {
-    "time": "17:45",
-    "event": "Real Madrid W x Inter Milano W",
-    "url": "https://v3.sportsonline.to/channels/hd/hd10.php"
-  },
-  {
-    "time": "17:45",
-    "event": "Real Madrid W x Inter Milano W",
+    "time": "09:00",
+    "event": "MotoGP: Portugal FP1",
     "url": "https://v3.sportsonline.to/channels/bra/br6.php"
   },
   {
-    "time": "17:45",
-    "event": "Handball: Aalborg x Fuchse Berlin",
-    "url": "https://v3.sportsonline.to/channels/pt/sporttv3.php"
+    "time": "11:00",
+    "event": "UEFA Nations League Draw",
+    "url": "https://v3.sportsonline.to/channels/hd/hd10.php"
+  },
+  {
+    "time": "12:30",
+    "event": "Bihor Oradea x Gloria Bistriţa",
+    "url": "https://v3.sportsonline.to/channels/hd/hd4.php"
+  },
+  {
+    "time": "12:00",
+    "event": "Tennis: ATP Finals: Day 6 Singles",
+    "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
+  },
+  {
+    "time": "13:00",
+    "event": "Tennis: ATP Finals: Day 6 Singles",
+    "url": "https://v3.sportsonline.to/channels/pt/sporttv1.php"
+  },
+  {
+    "time": "13:15",
+    "event": "MotoGP: Portugal Practice",
+    "url": "https://v3.sportsonline.to/channels/hd/hd2.php"
+  },
+  {
+    "time": "13:15",
+    "event": "MotoGP: Portugal Practice",
+    "url": "https://v3.sportsonline.to/channels/pt/sporttv4.php"
+  },
+  {
+    "time": "13:15",
+    "event": "MotoGP: Portugal Practice",
+    "url": "https://v3.sportsonline.to/channels/bra/br6.php"
+  },
+  {
+    "time": "15:30",
+    "event": "Botoşani x Voluntari",
+    "url": "https://v3.sportsonline.to/channels/hd/hd4.php"
+  },
+  {
+    "time": "17:30",
+    "event": "Darmstadt 98 x Heidenheim",
+    "url": "https://v3.sportsonline.to/channels/hd/hd9.php"
+  },
+  {
+    "time": "17:30",
+    "event": "Darmstadt 98 x Heidenheim",
+    "url": "https://v3.sportsonline.to/channels/pt/eleven1.php"
+  },
+  {
+    "time": "17:30",
+    "event": "Al-Ahli x Al Nassr",
+    "url": "https://v3.sportsonline.to/channels/hd/hd8.php"
+  },
+  {
+    "time": "17:30",
+    "event": "Al-Ahli X Al Nassr",
+    "url": "https://v3.sportsonline.to/channels/pt/sporttv1.php"
+  },
+  {
+    "time": "17:30",
+    "event": "Al-Ahli X Al Nassr",
+    "url": "https://v3.sportsonline.to/channels/bra/br3.php"
+  },
+  {
+    "time": "17:30",
+    "event": "Arminia Bielefeld x Magdeburg",
+    "url": "https://v3.sportsonline.to/channels/hd/hd11.php"
   },
   {
     "time": "18:00",
-    "event": "Utebo x Sabadell",
-    "url": "https://v3.sportsonline.to/channels/hd/hd6.php"
+    "event": "AGF x Lyngby",
+    "url": "https://v3.sportsonline.to/channels/hd/hd10.php"
   },
   {
     "time": "19:00",
-    "event": "Darts: Grand Slam Of Darts Last 16",
+    "event": "Tennis: ATP Finals 2026",
+    "url": "https://v3.sportsonline.to/channels/pt/sporttv3.php"
+  },
+  {
+    "time": "19:00",
+    "event": "Darts: Grand Slam Of Darts Q/Final",
     "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
   },
   {
     "time": "19:30",
-    "event": "Tennis: ATP Finals 2026",
+    "event": "Bayern München x Köln",
+    "url": "https://v3.sportsonline.to/channels/hd/hd5.php"
+  },
+  {
+    "time": "19:30",
+    "event": "Bayern München x Köln",
+    "url": "https://v3.sportsonline.to/channels/hd/hd3.php"
+  },
+  {
+    "time": "19:30",
+    "event": "Bayern München x Köln",
+    "url": "https://v3.sportsonline.to/channels/pt/eleven1.php"
+  },
+  {
+    "time": "19:30",
+    "event": "Bayern München x Köln",
+    "url": "https://v3.sportsonline.to/channels/bra/br1.php"
+  },
+  {
+    "time": "19:30",
+    "event": "FC Andorra x Leganés",
+    "url": "https://v3.sportsonline.to/channels/hd/hd11.php"
+  },
+  {
+    "time": "19:30",
+    "event": "Inverness CT x Ayr United",
+    "url": "https://v3.sportsonline.to/channels/hd/hd9.php"
+  },
+  {
+    "time": "19:30",
+    "event": "Basketball: Euro League - Olympiacos x Real Madrid",
+    "url": "https://v3.sportsonline.to/channels/pt/sporttv4.php"
+  },
+  {
+    "time": "19:45",
+    "event": "Troyes x Le Havre",
+    "url": "https://v3.sportsonline.to/channels/hd/hd4.php"
+  },
+  {
+    "time": "19:45",
+    "event": "Troyes x Le Havre",
     "url": "https://v3.sportsonline.to/channels/pt/sporttv2.php"
   },
   {
     "time": "20:00",
-    "event": "Juventus W x OH Leuven W",
-    "url": "https://v3.sportsonline.to/channels/hd/hd5.php"
-  },
-  {
-    "time": "20:00",
-    "event": "Juventus W x OH Leuven W",
+    "event": "Athletic Club x Espanyol",
     "url": "https://v3.sportsonline.to/channels/hd/hd2.php"
   },
   {
     "time": "20:00",
-    "event": "Juventus W x OH Leuven W",
-    "url": "https://v3.sportsonline.to/channels/bra/br6.php"
+    "event": "Athletic Club x Espanyol",
+    "url": "https://v3.sportsonline.to/channels/hd/hd6.php"
   },
   {
     "time": "20:00",
-    "event": "Chelsea FC W x PSG W",
-    "url": "https://v3.sportsonline.to/channels/hd/hd11.php"
+    "event": "Athletic Club x Espanyol",
+    "url": "https://v3.sportsonline.to/channels/pt/eleven2.php"
   },
   {
     "time": "20:00",
-    "event": "Chelsea FC W x PSG W",
-    "url": "https://v3.sportsonline.to/channels/hd/hd10.php"
-  },
-  {
-    "time": "20:00",
-    "event": "Chelsea FC W x PSG W",
-    "url": "https://v3.sportsonline.to/channels/bra/br2.php"
-  },
-  {
-    "time": "20:00",
-    "event": "Alianza Atlético x Melgar",
-    "url": "https://v3.sportsonline.to/channels/hd/hd9.php"
-  },
-  {
-    "time": "20:15",
-    "event": "Futsal: Benfica x Famalicão",
-    "url": "https://v3.sportsonline.to/channels/pt/sporttv1.php"
-  },
-  {
-    "time": "22:30",
-    "event": "Coritiba x Santos",
-    "url": "https://v3.sportsonline.to/channels/bra/br5.php"
-  },
-  {
-    "time": "23:00",
-    "event": "Remo x Chapecoense",
-    "url": "https://v3.sportsonline.to/channels/bra/br4.php"
-  },
-  {
-    "time": "23:30",
-    "event": "Flamengo x Athletico-PR",
-    "url": "https://v3.sportsonline.to/channels/bra/br1.php"
-  },
-  {
-    "time": "23:30",
-    "event": "Cruzeiro x Palmeiras",
-    "url": "https://v3.sportsonline.to/channels/bra/br2.php"
-  },
-  {
-    "time": "00:00",
-    "event": "NBA: Milwaukee Bucks @ Miami Heat",
-    "url": "https://v3.sportsonline.to/channels/hd/hd5.php"
-  },
-  {
-    "time": "00:00",
-    "event": "NBA: Miami Heat @ Milwaukee Bucks",
+    "event": "Barnsley x Sheffield Wednesday",
     "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
   },
   {
-    "time": "00:00",
-    "event": "NBA: Philadelphia 76ers @ Orlando Magic",
+    "time": "20:45",
+    "event": "Porto X Paredes",
     "url": "https://v3.sportsonline.to/channels/pt/sporttv1.php"
   },
   {
-    "time": "00:30",
-    "event": "NHL: New Jersey Devils @ Montreal Canadiens",
-    "url": "https://v3.sportsonline.to/channels/pt/sporttv3.php"
+    "time": "21:30",
+    "event": "Medellín x Santa Fe",
+    "url": "https://v3.sportsonline.to/channels/hd/hd8.php"
   },
   {
-    "time": "00:30",
-    "event": "Grêmio x Bahia",
-    "url": "https://v3.sportsonline.to/channels/bra/br3.php"
+    "time": "23:00",
+    "event": "Vélez Sarsfield x Belgrano",
+    "url": "https://v3.sportsonline.to/channels/hd/hd11.php"
   },
   {
-    "time": "00:30",
-    "event": "Corinthians x Botafogo",
-    "url": "https://v3.sportsonline.to/channels/bra/br6.php"
+    "time": "23:35",
+    "event": "Atlético Bucaramanga x América de Cali",
+    "url": "https://v3.sportsonline.to/channels/hd/hd8.php"
   },
   {
-    "time": "02:30",
-    "event": "NBA: Boston Celtics @ Denver Nuggets",
-    "url": "https://v3.sportsonline.to/channels/hd/hd5.php"
+    "time": "00:15",
+    "event": "Las Vegas F1 GP: Practice 3",
+    "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
   },
   {
-    "time": "02:30",
-    "event": "NBA: Denver Nuggets @ Boston Celtics",
-    "url": "https://v3.sportsonline.to/channels/pt/sporttv1.php"
+    "time": "00:15",
+    "event": "Las Vegas F1 GP: Practice 3",
+    "url": "https://v3.sportsonline.to/channels/hd/hd7.php"
+  },
+  {
+    "time": "01:00",
+    "event": "Puebla x Atlético San Luis",
+    "url": "https://v3.sportsonline.to/channels/hd/hd10.php"
+  },
+  {
+    "time": "03:00",
+    "event": "Juárez x Atlas",
+    "url": "https://v3.sportsonline.to/channels/hd/hd8.php"
+  },
+  {
+    "time": "03:00",
+    "event": "Tijuana x Atlante",
+    "url": "https://v3.sportsonline.to/channels/hd/hd10.php"
+  },
+  {
+    "time": "03:00",
+    "event": "Las Vegas F1 GP: Qualifying",
+    "url": "https://v3.sportsonline.to/channels/hd/hd1.php"
+  },
+  {
+    "time": "03:00",
+    "event": "Las Vegas F1 GP: Qualifying",
+    "url": "https://v3.sportsonline.to/channels/hd/hd7.php"
   }
 ]
